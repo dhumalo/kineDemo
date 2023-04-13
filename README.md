@@ -1,3 +1,3 @@
 # kineDemo
-Kine changes for test]
-gdrgf
+Kine changes for test
+Readme file is updated.
